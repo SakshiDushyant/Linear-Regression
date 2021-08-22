@@ -1,2 +1,3 @@
 # Linear-Regression
- Prediction  problems using linear regression
+#Logistic - Regression
+ Prediction  problems using linear regression and Logistic regression
